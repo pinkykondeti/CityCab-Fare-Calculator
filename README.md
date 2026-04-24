@@ -18,9 +18,11 @@ A Python-based backend script that calculates ride fares for a ride-sharing serv
 -- Project Structure
 
 CityCab-Fare-Calculator/
+
 │
-├── Farecalc.py     # Main Python script
-└── README.md       # Project documentation
+├── Farecalc.py    
+
+└── README.md     
 
 --How It Works
 
@@ -39,10 +41,13 @@ CityCab-Fare-Calculator/
 --How to Run
 
 Step 1: Clone the repository
+
      git clone https://github.com/your-username/CityCab-Fare-Calculator.git
+     
      cd CityCab-Fare-Calculator
 
 Step 2: Run the script
+
        python Farecalc.py
 
 --Example Usage
