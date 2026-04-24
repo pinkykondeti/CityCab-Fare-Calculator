@@ -19,7 +19,6 @@ A Python-based backend script that calculates ride fares for a ride-sharing serv
 
 CityCab-Fare-Calculator/
 
-│
 ├── Farecalc.py    
 
 └── README.md     
